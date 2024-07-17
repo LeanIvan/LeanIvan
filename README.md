@@ -5,7 +5,7 @@
 Soy un estudiante de Sistemas en la [Universidad Tecnológica Nacional (UTN)](https://www.utn.edu.ar/), actualmente en el último año de la TUP (Tecnicatura Universitaria en Programación).
 
 - 🌱 Actualmente estoy aprendiendo **C# y Con el entorno de desarollo de .NET**.
-- 💼 Anteriormente gestionaba un negocio propio , pero decidí dar una vuelta de 160 grados y tomar otro rumbo.
+- 💼 Anteriormente gestionaba un negocio propio , pero decidí tomar otro rumbo.
 - 📫 Puedes contactarme en [ivan.Agustin.leany@gmail.com](mailto:ivan.agustin.leany@gmail.com).
 
 <p align="center">
